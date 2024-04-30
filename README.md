@@ -3,7 +3,7 @@ A Bedrock Resource Pack designed for the Beta version of the ValhallaMMO Plugin 
 
 Instructions:
 1. Get the GeyserOptionalPack.mcpack from their [Official Github](https://github.com/GeyserMC/GeyserOptionalPack).
-2. Get the "geyser_resources.mcpack" and the "geyser_mappings.json" from this repo.
+2. Get the "geyser_resources.mcpack" and the "geyser_mappings.json" from the [Releases](https://github.com/ManicQuinn/ValhallaMMO-Bedrock-Resource-Pack/releases) tab.
 3. Put the GeyserOptionalPack.mcpack and the geyser_resources.mcpack inside your "plugins/Geyser-Spigot/packs" folder.
 4. Put the geyser_mappings.json in the "plugins/Geyser-Spigot/custom-mappings" folder.
 5. Launch the server and when a Bedrock Client connects, it should auto download the pack.
